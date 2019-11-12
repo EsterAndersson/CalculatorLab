@@ -1,0 +1,5 @@
+/Users/esterandersson/Documents/C# KURS/Lab1Calculator/Lab1Calculator/obj/Debug/Lab1Calculator.csprojAssemblyReference.cache
+/Users/esterandersson/Documents/C# KURS/Lab1Calculator/Lab1Calculator/bin/Debug/Lab1Calculator.exe
+/Users/esterandersson/Documents/C# KURS/Lab1Calculator/Lab1Calculator/bin/Debug/Lab1Calculator.pdb
+/Users/esterandersson/Documents/C# KURS/Lab1Calculator/Lab1Calculator/obj/Debug/Lab1Calculator.exe
+/Users/esterandersson/Documents/C# KURS/Lab1Calculator/Lab1Calculator/obj/Debug/Lab1Calculator.pdb
